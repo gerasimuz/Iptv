@@ -2,107 +2,104 @@
 
 ########## БЕЛАРУСЬ ##########
 
-#EXTINF:-1 group-title="Беларусь",Беларусь 1 HD
-http://live-1.by:80/belarus1/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 1
+http://live-1.by/belarus1/index.m3u8
 
 #EXTINF:-1 group-title="Беларусь",Беларусь 2
-http://live-1.by:80/belarus2/index.m3u8
+http://live-1.by/belarus2/index.m3u8
 
 #EXTINF:-1 group-title="Беларусь",Беларусь 3
-http://live-1.by:80/belarus3/index.m3u8
+http://live-1.by/belarus3/index.m3u8
 
 #EXTINF:-1 group-title="Беларусь",Беларусь 4
-http://live-1.by:80/belarus4/index.m3u8
+http://live-1.by/belarus4/index.m3u8
 
 #EXTINF:-1 group-title="Беларусь",Беларусь 5
-http://live-1.by:80/belarus5/index.m3u8
+http://live-1.by/belarus5/index.m3u8
 
-#EXTINF:-1 group-title="Беларусь",ОНТ HD
-http://live-1.by:80/ont/index.m3u8
+#EXTINF:-1 group-title="Беларусь",ОНТ
+http://live-1.by/ont/index.m3u8
 
 #EXTINF:-1 group-title="Беларусь",СТВ
-http://live-1.by:80/stv/index.m3u8
+http://live-1.by/stv/index.m3u8
 
 #EXTINF:-1 group-title="Беларусь",Мир
-http://live-1.by:80/mir/index.m3u8
+http://live-1.by/mir/index.m3u8
 
 #EXTINF:-1 group-title="Беларусь",БелРос
-http://live-1.by:80/belros/index.m3u8
+http://live-1.by/belros/index.m3u8
 
 
-########## РОССИЯ (10 каналов) ##########
+########## РОССИЯ (10 стабильных) ##########
 
-#EXTINF:-1 group-title="Россия",Первый канал HD
-http://ott-cdn.ucom.am/s27/index.m3u8
+#EXTINF:-1 group-title="Россия",Первый канал
+https://iptv-org.github.io/streams/ru/1tv.m3u8
 
-#EXTINF:-1 group-title="Россия",Россия 1 HD
-http://ott-cdn.ucom.am/s28/index.m3u8
+#EXTINF:-1 group-title="Россия",Россия 1
+https://iptv-org.github.io/streams/ru/russia1.m3u8
 
-#EXTINF:-1 group-title="Россия",НТВ HD
-http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:-1 group-title="Россия",НТВ
+https://iptv-org.github.io/streams/ru/ntv.m3u8
 
 #EXTINF:-1 group-title="Россия",РЕН ТВ
-http://ott-cdn.ucom.am/s30/index.m3u8
+https://iptv-org.github.io/streams/ru/rentv.m3u8
 
 #EXTINF:-1 group-title="Россия",ТВ Центр
-http://ott-cdn.ucom.am/s31/index.m3u8
+https://iptv-org.github.io/streams/ru/tvc.m3u8
 
 #EXTINF:-1 group-title="Россия",Пятница
-http://ott-cdn.ucom.am/s33/index.m3u8
+https://iptv-org.github.io/streams/ru/pyatnica.m3u8
 
 #EXTINF:-1 group-title="Россия",СТС
-http://ott-cdn.ucom.am/s34/index.m3u8
+https://iptv-org.github.io/streams/ru/sts.m3u8
 
 #EXTINF:-1 group-title="Россия",ТНТ
-http://ott-cdn.ucom.am/s35/index.m3u8
+https://iptv-org.github.io/streams/ru/tnt.m3u8
 
 #EXTINF:-1 group-title="Россия",ТВ3
-http://ott-cdn.ucom.am/s36/index.m3u8
+https://iptv-org.github.io/streams/ru/tv3.m3u8
 
 #EXTINF:-1 group-title="Россия",2x2
-http://ott-cdn.ucom.am/s37/index.m3u8
+https://iptv-org.github.io/streams/ru/2x2.m3u8
 
 
-########## СПОРТ (HD только нужное) ##########
+########## СПОРТ (только стабильные) ##########
 
-#EXTINF:-1 group-title="Спорт",Матч! HD
-http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! (зеркало)
+http://91.207.136.18:8080/match/index.m3u8
 
-#EXTINF:-1 group-title="Спорт",Матч! Арена HD
-http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Арена (зеркало)
+http://91.207.136.18:8080/arena/index.m3u8
 
-#EXTINF:-1 group-title="Спорт",Матч! Игра
-http://ott-cdn.ucom.am/s34/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Игра (зеркало)
+http://91.207.136.18:8080/igra/index.m3u8
 
-#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
-http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+https://rakuten-eurosport-1-ru.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Спорт",Eurosport 2
-http://ott-cdn.ucom.am/s36/index.m3u8
-
-#EXTINF:-1 group-title="Спорт",Red Bull TV HD
+#EXTINF:-1 group-title="Спорт",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
 ########## МУЗЫКА ##########
 
 #EXTINF:-1 group-title="Музыка",Bridge TV
-http://ott-cdn.ucom.am/s40/index.m3u8
+https://iptv-org.github.io/streams/ru/bridgetv.m3u8
 
 #EXTINF:-1 group-title="Музыка",Bridge Hits
-http://ott-cdn.ucom.am/s41/index.m3u8
+https://iptv-org.github.io/streams/ru/bridgehits.m3u8
 
 #EXTINF:-1 group-title="Музыка",Europa Plus TV
-http://ott-cdn.ucom.am/s42/index.m3u8
+https://iptv-org.github.io/streams/ru/europaplustv.m3u8
 
 #EXTINF:-1 group-title="Музыка",Russian Music Box
-http://ott-cdn.ucom.am/s43/index.m3u8
+https://iptv-org.github.io/streams/ru/russianmusicbox.m3u8
 
 
-########## 18+ ##########
+########## 18+ (только рабочие) ##########
 
-#EXTINF:-1 group-title="18+",Playboy TV
-http://ott-cdn.ucom.am/s50/index.m3u8
+#EXTINF:-1 group-title="18+",Playboy TV (зеркало)
+http://91.207.136.18:8080/playboy/index.m3u8
 
-#EXTINF:-1 group-title="18+",Redlight HD
-http://ott-cdn.ucom.am/s51/index.m3u8
+#EXTINF:-1 group-title="18+",Redlight
+http://91.207.136.18:8080/redlight/index.m3u8
